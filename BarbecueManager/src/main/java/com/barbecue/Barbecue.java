@@ -16,7 +16,6 @@ public class Barbecue {
 	public Barbecue() {
 		super();
 	}
-
 	
 	@Id
 	@Column(name="BARBECUEID")
