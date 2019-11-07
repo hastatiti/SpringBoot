@@ -17,6 +17,7 @@ public class Barbecue {
 		super();
 	}
 
+	
 	@Id
 	@Column(name="BARBECUEID")
 	@GeneratedValue(strategy=GenerationType.AUTO)
